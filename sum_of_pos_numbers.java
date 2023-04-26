@@ -22,6 +22,8 @@ class sum_of_pos_numbers
             {
                 break;
             }
+            
+            i = i+1
         }
          
         System.out.println("Sum of positive numbers entered in the series : " + sum);     
